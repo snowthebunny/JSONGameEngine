@@ -1,0 +1,14 @@
+{
+	"name": "New Game",
+	"window": {
+		"title": "Game",
+		"width": 640,
+		"height": 480
+	},
+	"folders":
+	{
+		"objects":"objs",
+		"data":"data"
+		"images":"imgs"
+	}
+}
